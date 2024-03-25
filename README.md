@@ -6,9 +6,9 @@ Le but de ce script est de convertir un fichier au format "mkv" avec n'importe q
 ## Prérequis
 - ffmpeg
 - Python 3+
-- Lib: os
-- Lib: json
-- Lib: subprocess
+  - Lib: os
+  - Lib: json
+  - Lib: subprocess
 
 ## Utilisation
 
