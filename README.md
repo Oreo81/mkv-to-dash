@@ -12,6 +12,7 @@ Le but de ce script est de convertir un fichier au format "mkv" avec n'importe q
 
 ## Utilisation
 
+![schema](https://github.com/Oreo81/mkv-to-dash/assets/65022558/2ae8affa-f4d5-46af-9544-db3db3d6ce79)
 
 ## FFMPEG commande
 - Lors de la division:
@@ -32,3 +33,6 @@ Le but de ce script est de convertir un fichier au format "mkv" avec n'importe q
 - Lors de la construction:
   - VIDEO
     - format: **dash / .mpd**
+
+##License
+Ce projet est placé sous la licence MIT. Pour plus d'informations, voir le fichier LICENSE-MIT.
